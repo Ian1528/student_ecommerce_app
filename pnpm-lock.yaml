@@ -15,7 +15,7 @@ importers:
         specifier: ^0.10.4
         version: 0.10.4
       '@prisma/client':
-        specifier: ^5.14.0
+        specifier: ^5.22.0
         version: 5.22.0(prisma@5.22.0)
       '@t3-oss/env-nextjs':
         specifier: ^0.10.1
