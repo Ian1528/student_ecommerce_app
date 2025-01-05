@@ -6,6 +6,7 @@ This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3
 
 ## TODO:
 
-[] setup local and dev databases
+[x] setup local and dev databases
 [] make a basic UI
 [] setup auth
+[] make pages for selling and buying items
